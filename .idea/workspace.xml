@@ -2,35 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="512e5669-1217-474f-8b08-ae74aaea458a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/01_conflict-example/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/01_conflict-example/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/02_browsers-application-of-css/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/02_browsers-application-of-css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/02_browsers-application-of-css/mcleod-reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/03_challenge-01/01_challenge/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/03_challenge-01/01_challenge/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/03_challenge-01/02_solution/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/03_challenge-01/02_solution/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/04_challenge-02_order-matters/01_challenge/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/04_challenge-02_order-matters/01_challenge/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/04_challenge-02_order-matters/02_solution/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/04_challenge-02_order-matters/02_solution/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/05_challenge-03_order-matters/01_challenge/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/05_challenge-03_order-matters/01_challenge/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/05_challenge-03_order-matters/02_solution/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/05_challenge-03_order-matters/02_solution/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/06_challenge-04_order-matters/01_challenge/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/06_challenge-04_order-matters/01_challenge/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/06_challenge-04_order-matters/02_solution/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/06_challenge-04_order-matters/02_solution/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/07_challenge-05_compound-selectors/01_challenge/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/07_challenge-05_compound-selectors/01_challenge/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/07_challenge-05_compound-selectors/02_solution/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/07_challenge-05_compound-selectors/02_solution/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/08_challenge-06_compound-selectors/01_challenge/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/08_challenge-06_compound-selectors/01_challenge/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/08_challenge-06_compound-selectors/02_solution/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/023_css-order-and-specificity/08_challenge-06_compound-selectors/02_solution/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hands-on-exercises4/01/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hands-on-exercises4/02/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hands-on-exercises4/03/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hands-on-exercises4/04/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hands-on-exercises4/05/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -45,7 +21,28 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hands-on-exercises4/04/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hands-on-exercises4/05/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -106,6 +103,11 @@
         <option value="$PROJECT_DIR$/hands-on-exercises3/07/index.html" />
         <option value="$PROJECT_DIR$/023_css-order-and-specificity/01_conflict-example/main.css" />
         <option value="$PROJECT_DIR$/023_css-order-and-specificity/01_conflict-example/index.html" />
+        <option value="$PROJECT_DIR$/hands-on-exercises4/01/index.html" />
+        <option value="$PROJECT_DIR$/hands-on-exercises4/02/index.html" />
+        <option value="$PROJECT_DIR$/hands-on-exercises4/03/index.html" />
+        <option value="$PROJECT_DIR$/hands-on-exercises4/04/index.html" />
+        <option value="$PROJECT_DIR$/hands-on-exercises4/05/index.html" />
       </list>
     </option>
   </component>
@@ -185,6 +187,7 @@
       <recent name="C:\Users\Peter\WebDevelopment\hands-on-exercsises1\css" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Peter\WebDevelopment\hands-on-exercises4" />
       <recent name="C:\Users\Peter\WebDevelopment" />
       <recent name="C:\Users\Peter\WebDevelopment\hands-on-exercises3" />
       <recent name="C:\Users\Peter\WebDevelopment\005_essentials-tags" />
@@ -257,8 +260,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19566368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19566368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -305,41 +309,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/06_nth-child-n/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/07_nth-last-child-n/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/019_css-selectors/05_pseudo-class/01_link/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/019_css-selectors/05_pseudo-class/04_active/01_link/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/019_css-selectors/05_pseudo-class/05_focus/01_link/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/019_css-selectors/05_pseudo-class/06_nth-child/08_nth-child-an+b/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -685,6 +654,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hands-on-exercises4/01/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hands-on-exercises4/02/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hands-on-exercises4/03/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hands-on-exercises4/04/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hands-on-exercises4/05/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding />
         </state>
       </provider>
