@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+}
+
+/*#emph {*/
+    /*color: blue;*/
+/*}*/
+
+.cowboy {
+    color: green;
+}
+
+.emphasize {
+    color: yellow;
+    border: 2px dashed #00C957;
+}
