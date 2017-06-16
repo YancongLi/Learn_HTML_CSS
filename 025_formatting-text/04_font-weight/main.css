@@ -1,0 +1,10 @@
+h1 {
+    font-weight: normal;
+}
+/*css reset h1*/
+
+p {
+    font-family: sans-serif;
+    font-size: 4rem;
+    font-weight: bold;
+}
